@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="selectedicon">#001724</color>
+    <color name="unselectedicon">#A8B8C2</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#f7f7f7</color>
+    <color name="colorAccent">#444444</color>
+    <color name="mostBgm">#f7f7f7</color>
+    <color name="yellow">#ffda17</color>
+
+
+    <color name="darkGray">#444444</color>
+
+    <!-- colors for button style -->
+
+    <color name="gradient_start_color">#444444</color>
+<!--    <color name="gradient_end_color">#18a3fe</color>-->
+
+
+    <!-- colors for tab and screent text -->
+
+    <color name="tab_indicator_gray">#c9c9c9</color>
+
+
+
+
+
+</resources>
